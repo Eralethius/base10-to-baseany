@@ -1,0 +1,12 @@
+{
+  "name": "base10-to-baseany",
+  "version": "1.0.0",
+  "description": "toz pembe hisslerle kafayi pozdun sen o duwlerle",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
